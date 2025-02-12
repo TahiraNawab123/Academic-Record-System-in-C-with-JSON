@@ -1,0 +1,9 @@
+{
+    "age": 21,
+    "course": {
+        "code": 201,
+        "courseName": "Software Engineering"
+    },
+    "gpa": 3.200000047683716,
+    "name": "Charlie"
+}
